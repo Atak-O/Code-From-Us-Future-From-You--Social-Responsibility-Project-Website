@@ -1,5 +1,5 @@
 # Code-From-Us-Future-From-You--Social-Responsibility-Project-Website
-This is the website I designed with Claude agent for my Python Social Responsibility Project.
+This is the website which  I designed with Claude agent for my Python Social Responsibility Project.
 ------------------------------------
 The Name of website is cfuffy
 
